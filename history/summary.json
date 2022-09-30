@@ -1,0 +1,102 @@
+[
+  {
+    "name": "voting.summit.cardano.org",
+    "url": "https://voting.summit.cardano.org/",
+    "icon": "https://favicons.githubusercontent.com/voting.summit.cardano.org",
+    "slug": "voting-summit-cardano-org",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-30": 7
+    }
+  },
+  {
+    "name": "voter-service-AWARD-categories",
+    "url": "https://voting.summit.cardano.org/api/reference/categories/M4ep/AWARD",
+    "icon": "https://favicons.githubusercontent.com/voting.summit.cardano.org",
+    "slug": "voter-service-award-categories",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-30": 22
+    }
+  },
+  {
+    "name": "voter-service-SPEAKERS-categories",
+    "url": "https://voting.summit.cardano.org/api/reference/categories/M4ep/SPEAKER",
+    "icon": "https://favicons.githubusercontent.com/voting.summit.cardano.org",
+    "slug": "voter-service-speakers-categories",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-30": 22
+    }
+  },
+  {
+    "name": "voter-service-cast-vote",
+    "url": "https://voting.summit.cardano.org/api/voting/cast-vote",
+    "icon": "https://favicons.githubusercontent.com/voting.summit.cardano.org",
+    "slug": "voter-service-cast-vote",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-30": 22
+    }
+  },
+  {
+    "name": "voter-service-get-captcha",
+    "url": "https://voting.summit.cardano.org/captcha",
+    "icon": "https://favicons.githubusercontent.com/voting.summit.cardano.org",
+    "slug": "voter-service-get-captcha",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-30": 22
+    }
+  }
+]
