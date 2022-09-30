@@ -1,0 +1,51 @@
+# Change these first
+owner: cardano-foundation
+repo: cf-summit-evoting-status
+
+sites:
+  - name: voting.summit.cardano.org
+    url: https://voting.summit.cardano.org/
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Cardano Ballot Web Application'
+    expectedStatusCodes:
+      - 200
+  - name: voter-service-AWARD-categories
+    url: https://voting.summit.cardano.org/api/reference/categories/M4ep/AWARD
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: '"categoryType":"AWARD"'
+    expectedStatusCodes:
+      - 200
+  - name: voter-service-SPEAKERS-categories
+    url: https://voting.summit.cardano.org/api/reference/categories/M4ep/SPEAKER
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: '"categoryType":"SPEAKER"'
+    expectedStatusCodes:
+      - 200
+  - name: voter-service-cast-vote
+    url: https://voting.summit.cardano.org/api/voting/cast-vote
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 401
+  - name: voter-service-get-captcha
+    url: https://voting.summit.cardano.org/captcha
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'svg'
+    expectedStatusCodes:
+      - 200
+  
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: cf-summit-evoting-status
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+
