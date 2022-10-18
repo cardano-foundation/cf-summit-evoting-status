@@ -12,7 +12,6 @@ sites:
   - name: voter-service-AWARD-categories
     url: https://voting.summit.cardano.org/api/reference/categories/M4ep/AWARD
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: '"categoryType":"AWARD"'
     expectedStatusCodes:
       - 200
   - name: voter-service-SPEAKERS-categories
