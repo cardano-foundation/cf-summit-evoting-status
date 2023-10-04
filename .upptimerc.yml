@@ -6,31 +6,50 @@ sites:
   - name: voting.summit.cardano.org
     url: https://voting.summit.cardano.org/
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'Cardano Ballot Web Application'
+    __dangerous__body_down_if_text_missing: 'Cardano Summit 2023 Voting Application'
     expectedStatusCodes:
       - 200
-  - name: voter-service-AWARD-categories
-    url: https://voting.summit.cardano.org/api/reference/categories/M4ep/AWARD
+  - name: event-api
+    url: https://follower-api.voting.summit.cardano.org/api/reference/event/CARDANO_SUMMIT_AWARDS_2023
     maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: '"id": "CARDANO_SUMMIT_AWARDS_2023"'
     expectedStatusCodes:
       - 200
-  - name: voter-service-SPEAKERS-categories
-    url: https://voting.summit.cardano.org/api/reference/categories/M4ep/SPEAKER
+  - name: user-verification-api
+    url: https://user-verification.voting.summit.cardano.org/api/sms/user-verification/start-verification
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: '"categoryType":"SPEAKER"'
+    expectedStatusCodes:
+      - 405
+  - name: blockchain-follower-api
+    url: https://follower-api.voting.summit.cardano.org/api/blockchain/tip
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'absoluteSlot'
     expectedStatusCodes:
       - 200
-  - name: voter-service-cast-vote
-    url: https://voting.summit.cardano.org/api/voting/cast-vote
+  - name: login-api
+    url: http://api.voting.summit.cardano.org/api/auth/login
     maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
-  - name: voter-service-get-captcha
-    url: https://voting.summit.cardano.org/captcha
+  - name: cast-vote-api
+    url: http://api.voting.summit.cardano.org/api/vote/cast
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'svg'
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
-      - 200
+      - 401
+  - name: get-votes-api
+    url: http://api.voting.summit.cardano.org/api/vote/votes/CARDANO_SUMMIT_AWARDS_2023
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
+    expectedStatusCodes:
+      - 401
+  - name: get-vote-receipt-api
+    url: http://api.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2023/AMBASSADOR
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
+    expectedStatusCodes:
+      - 401
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
