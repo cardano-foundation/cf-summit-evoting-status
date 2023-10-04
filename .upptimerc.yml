@@ -6,7 +6,7 @@ sites:
   - name: voting.summit.cardano.org
     url: https://voting.summit.cardano.org/
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'Cardano Summit 2023 Voting Application'
+    __dangerous__body_down_if_text_missing: 'Cardano Ballot - Cardano Summit Awards Voting'
     expectedStatusCodes:
       - 200
   - name: event-api
