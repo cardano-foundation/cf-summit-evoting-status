@@ -121,19 +121,19 @@
     "url": "http://api.voting.summit.cardano.org/api/vote/votes/CARDANO_SUMMIT_AWARDS_2023",
     "icon": "https://icons.duckduckgo.com/ip3/api.voting.summit.cardano.org.ico",
     "slug": "get-votes-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 203,
-    "timeWeek": 322,
-    "timeMonth": 266,
-    "timeYear": 271,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 277,
+    "timeDay": 320,
+    "timeWeek": 348,
+    "timeMonth": 275,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2023-11-10": 0
+      "2023-11-10": 5
     }
   },
   {
@@ -141,19 +141,19 @@
     "url": "http://api.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2023/AMBASSADOR",
     "icon": "https://icons.duckduckgo.com/ip3/api.voting.summit.cardano.org.ico",
     "slug": "get-vote-receipt-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 98,
-    "timeWeek": 276,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 255,
+    "timeDay": 263,
+    "timeWeek": 311,
+    "timeMonth": 257,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2023-11-10": 0
+      "2023-11-10": 5
     }
   }
 ]
