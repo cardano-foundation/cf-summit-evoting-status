@@ -1,7 +1,7 @@
 url: http://api.voting.summit.cardano.org/api/vote/votes/CARDANO_SUMMIT_AWARDS_2023
 status: up
 code: 401
-responseTime: 82
-lastUpdated: 2023-12-20T23:02:08.461Z
+responseTime: 233
+lastUpdated: 2023-12-21T23:01:51.308Z
 startTime: 2023-10-04T11:58:36.532Z
 generator: Upptime <https://github.com/upptime/upptime>
