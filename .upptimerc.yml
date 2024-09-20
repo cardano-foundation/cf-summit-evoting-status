@@ -10,9 +10,9 @@ sites:
     expectedStatusCodes:
       - 200
   - name: event-api
-    url: https://follower-api.voting.summit.cardano.org/api/reference/event/CARDANO_SUMMIT_AWARDS_2023
+    url: https://follower-api.voting.summit.cardano.org/api/reference/event/TEST_2024
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'CARDANO_SUMMIT_AWARDS_2023'
+    __dangerous__body_down_if_text_missing: 'TEST_2024'
     expectedStatusCodes:
       - 200
   - name: user-verification-api
@@ -23,7 +23,7 @@ sites:
   - name: blockchain-follower-api
     url: https://follower-api.voting.summit.cardano.org/api/blockchain/tip
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'absoluteSlot'
+    __dangerous__body_down_if_text_missing: '"synced":true'
     expectedStatusCodes:
       - 200
   - name: login-api
@@ -50,12 +50,24 @@ sites:
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
+  - name: keria
+    url: http://keria.voting.summit.cardano.org
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 401
+  - name: keria-provisioning
+    url: https://keria-provisioning.voting.summit.cardano.org/api/v1/provision
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Method Not Allowed'
+    expectedStatusCodes:
+      - 405
+
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  cname: status2023.voting.summit.cardano.org
+  cname: status2024.voting.summit.cardano.org
   #baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: cf-summit-evoting-status
