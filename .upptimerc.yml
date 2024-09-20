@@ -10,7 +10,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: event-api
-    url: https://follower-api.voting.summit.cardano.org/api/reference/event/TEST_2024
+    url: https://follower-api.voting.summit.cardano.org/api/reference/event/CARDANO_SUMMIT_AWARDS_2024
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'TEST_2024'
     expectedStatusCodes:
@@ -39,13 +39,13 @@ sites:
     expectedStatusCodes:
       - 401
   - name: get-votes-api
-    url: http://api.voting.summit.cardano.org/api/vote/votes/CARDANO_SUMMIT_AWARDS_2023
+    url: http://api.voting.summit.cardano.org/api/vote/votes/CARDANO_SUMMIT_AWARDS_2024
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: get-vote-receipt-api
-    url: http://api.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2023/AMBASSADOR
+    url: http://api.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2024/AMBASSADOR
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
