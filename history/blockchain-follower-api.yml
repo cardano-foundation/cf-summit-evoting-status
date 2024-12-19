@@ -1,7 +1,7 @@
 url: https://follower-api.voting.summit.cardano.org/api/blockchain/tip
-status: up
+status: down
 code: 200
-responseTime: 523
-lastUpdated: 2024-12-19T01:45:43.336Z
+responseTime: 551
+lastUpdated: 2024-12-19T06:05:04.820Z
 startTime: 2024-09-20T11:00:40.315Z
 generator: Upptime <https://github.com/upptime/upptime>
