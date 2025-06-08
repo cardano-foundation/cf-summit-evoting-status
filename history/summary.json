@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/voting.summit.cardano.org.ico",
     "slug": "voting-summit-cardano-org",
     "status": "up",
-    "uptime": "0.39%",
+    "uptime": "0.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.16%",
-    "time": 496,
-    "timeDay": 535,
-    "timeWeek": 497,
-    "timeMonth": 515,
+    "uptimeYear": "58.71%",
+    "time": 495,
+    "timeDay": 563,
+    "timeWeek": 488,
+    "timeMonth": 520,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-05-02": 3,
@@ -123,8 +123,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -139,12 +138,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 567,
-    "timeDay": 518,
-    "timeWeek": 492,
-    "timeMonth": 548,
+    "timeDay": 553,
+    "timeWeek": 495,
+    "timeMonth": 546,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-06-07": 10,
+      "2025-06-08": 11,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -421,8 +421,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -437,12 +436,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 527,
-    "timeDay": 337,
-    "timeWeek": 519,
-    "timeMonth": 562,
+    "timeDay": 603,
+    "timeWeek": 543,
+    "timeMonth": 564,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-06-07": 10,
+      "2025-06-08": 11,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -736,8 +736,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -752,12 +751,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 344,
-    "timeDay": 214,
-    "timeWeek": 209,
+    "timeDay": 296,
+    "timeWeek": 203,
     "timeMonth": 310,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-06-07": 10,
+      "2025-06-08": 11,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1047,8 +1047,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -1057,16 +1056,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.voting.summit.cardano.org.ico",
     "slug": "login-api",
     "status": "up",
-    "uptime": "8.29%",
+    "uptime": "8.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "59.37%",
-    "time": 451,
-    "timeDay": 132,
-    "timeWeek": 322,
-    "timeMonth": 490,
-    "timeYear": 450,
+    "uptimeYear": "59.91%",
+    "time": 450,
+    "timeDay": 174,
+    "timeWeek": 304,
+    "timeMonth": 485,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-05-08": 5,
       "2024-09-23": 2,
@@ -1173,8 +1172,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -1189,12 +1187,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 255,
-    "timeDay": 75,
+    "timeDay": 84,
     "timeWeek": 163,
-    "timeMonth": 192,
+    "timeMonth": 187,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-06-07": 10,
+      "2025-06-08": 11,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1489,8 +1488,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -1499,14 +1497,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.voting.summit.cardano.org.ico",
     "slug": "get-votes-api",
     "status": "up",
-    "uptime": "8.29%",
+    "uptime": "8.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.37%",
+    "uptimeYear": "59.91%",
     "time": 228,
-    "timeDay": 75,
-    "timeWeek": 183,
+    "timeDay": 90,
+    "timeWeek": 162,
     "timeMonth": 175,
     "timeYear": 209,
     "dailyMinutesDown": {
@@ -1614,8 +1612,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -1630,12 +1627,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 197,
-    "timeDay": 75,
+    "timeDay": 80,
     "timeWeek": 88,
-    "timeMonth": 167,
-    "timeYear": 178,
+    "timeMonth": 162,
+    "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-06-07": 10,
+      "2025-06-08": 11,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1930,8 +1928,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -1945,11 +1942,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 528,
-    "timeWeek": 440,
-    "timeMonth": 461,
-    "timeYear": 486,
+    "time": 487,
+    "timeDay": 510,
+    "timeWeek": 432,
+    "timeMonth": 459,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -1964,9 +1961,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 452,
-    "timeWeek": 377,
-    "timeMonth": 423,
+    "timeDay": 486,
+    "timeWeek": 399,
+    "timeMonth": 417,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2024-11-29": 5
