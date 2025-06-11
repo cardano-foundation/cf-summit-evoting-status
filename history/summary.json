@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/voting.summit.cardano.org.ico",
     "slug": "voting-summit-cardano-org",
     "status": "up",
-    "uptime": "1.53%",
+    "uptime": "1.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.78%",
-    "time": 496,
-    "timeDay": 658,
-    "timeWeek": 530,
-    "timeMonth": 529,
-    "timeYear": 555,
+    "uptimeYear": "60.32%",
+    "time": 498,
+    "timeDay": 802,
+    "timeWeek": 608,
+    "timeMonth": 535,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2025-05-02": 3,
       "2024-09-23": 855,
@@ -120,8 +120,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -136,12 +135,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 565,
-    "timeDay": 518,
-    "timeWeek": 519,
-    "timeMonth": 545,
+    "timeDay": 720,
+    "timeWeek": 576,
+    "timeMonth": 549,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-06-10": 10,
+      "2025-06-11": 10,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -418,8 +418,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -434,12 +433,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 527,
-    "timeDay": 383,
-    "timeWeek": 499,
-    "timeMonth": 557,
+    "timeDay": 598,
+    "timeWeek": 504,
+    "timeMonth": 558,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-06-10": 10,
+      "2025-06-11": 10,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -733,8 +733,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -749,12 +748,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 344,
-    "timeDay": 76,
-    "timeWeek": 191,
-    "timeMonth": 303,
-    "timeYear": 343,
+    "timeDay": 554,
+    "timeWeek": 269,
+    "timeMonth": 312,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-06-10": 10,
+      "2025-06-11": 10,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -1044,8 +1044,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -1054,15 +1053,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.voting.summit.cardano.org.ico",
     "slug": "login-api",
     "status": "up",
-    "uptime": "9.33%",
+    "uptime": "9.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.98%",
+    "uptimeYear": "61.50%",
     "time": 451,
-    "timeDay": 235,
-    "timeWeek": 344,
-    "timeMonth": 414,
+    "timeDay": 448,
+    "timeWeek": 366,
+    "timeMonth": 415,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-05-08": 5,
@@ -1167,8 +1166,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -1183,12 +1181,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 254,
-    "timeDay": 73,
-    "timeWeek": 151,
-    "timeMonth": 184,
-    "timeYear": 235,
+    "timeDay": 134,
+    "timeWeek": 140,
+    "timeMonth": 181,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-06-10": 10,
+      "2025-06-11": 10,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -1483,8 +1482,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -1493,16 +1491,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.voting.summit.cardano.org.ico",
     "slug": "get-votes-api",
     "status": "up",
-    "uptime": "9.33%",
+    "uptime": "9.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.98%",
+    "uptimeYear": "61.51%",
     "time": 227,
-    "timeDay": 75,
-    "timeWeek": 107,
-    "timeMonth": 175,
-    "timeYear": 208,
+    "timeDay": 376,
+    "timeWeek": 149,
+    "timeMonth": 185,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2024-09-23": 2,
       "2024-09-20": 660,
@@ -1605,8 +1603,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -1621,12 +1618,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 197,
-    "timeDay": 74,
-    "timeWeek": 83,
-    "timeMonth": 163,
-    "timeYear": 177,
+    "timeDay": 384,
+    "timeWeek": 127,
+    "timeMonth": 172,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-06-10": 10,
+      "2025-06-11": 10,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -1921,8 +1919,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -1937,9 +1934,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 365,
-    "timeWeek": 472,
-    "timeMonth": 458,
+    "timeDay": 467,
+    "timeWeek": 488,
+    "timeMonth": 461,
     "timeYear": 487,
     "dailyMinutesDown": {}
   },
@@ -1955,9 +1952,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 482,
-    "timeWeek": 402,
-    "timeMonth": 414,
+    "timeDay": 602,
+    "timeWeek": 438,
+    "timeMonth": 417,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2024-11-29": 5
