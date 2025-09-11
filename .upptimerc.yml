@@ -10,53 +10,53 @@ sites:
     expectedStatusCodes:
       - 200
   - name: event-api
-    url: https://follower-api.voting.summit.cardano.org/api/reference/event/CARDANO_SUMMIT_AWARDS_2024
+    url: https://follower-api.backend.voting.summit.cardano.org/api/reference/event/CARDANO_SUMMIT_AWARDS_2025
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'CARDANO_SUMMIT_AWARDS_2024'
     expectedStatusCodes:
       - 200
   - name: user-verification-api
-    url: https://user-verification.voting.summit.cardano.org/api/sms/user-verification/start-verification
+    url: https://user-verification.backend.voting.summit.cardano.org/api/sms/user-verification/start-verification
     maxResponseTime: 2000
     expectedStatusCodes:
       - 405
   - name: blockchain-follower-api
-    url: https://follower-api.voting.summit.cardano.org/api/blockchain/tip
+    url: https://follower-api.backend.voting.summit.cardano.org/api/blockchain/tip
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: '"synced":true'
     expectedStatusCodes:
       - 200
   - name: login-api
-    url: http://api.voting.summit.cardano.org/api/auth/login
+    url: http://api.backend.voting.summit.cardano.org/api/auth/login
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: cast-vote-api
-    url: http://api.voting.summit.cardano.org/api/vote/cast
+    url: http://api.backend.voting.summit.cardano.org/api/vote/cast
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: get-votes-api
-    url: http://api.voting.summit.cardano.org/api/vote/votes/CARDANO_SUMMIT_AWARDS_2024
+    url: http://api.backend.voting.summit.cardano.org/api/vote/votes/CARDANO_SUMMIT_AWARDS_2025
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: get-vote-receipt-api
-    url: http://api.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2024/AMBASSADOR
+    url: http://api.backend.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2025/AMBASSADOR
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: keria
-    url: http://keria.voting.summit.cardano.org
+    url: http://keria.backend.voting.summit.cardano.org
     maxResponseTime: 2000
     expectedStatusCodes:
       - 401
   - name: keria-provisioning
-    url: https://keria-provisioning.voting.summit.cardano.org/api/v1/provision
+    url: https://keria-provisioning.backend.voting.summit.cardano.org/api/v1/provision
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Method Not Allowed'
     expectedStatusCodes:
@@ -67,7 +67,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  cname: status2024.voting.summit.cardano.org
+  cname: status2025.voting.summit.cardano.org
   #baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: cf-summit-evoting-status
