@@ -1,7 +1,7 @@
-url: https://keria-provisioning.voting.summit.cardano.org/api/v1/provision
-status: up
-code: 405
-responseTime: 542
-lastUpdated: 2025-06-11T23:06:55.129Z
+url: https://keria-provisioning.backend.voting.summit.cardano.org/api/v1/provision
+status: down
+code: 404
+responseTime: 616
+lastUpdated: 2025-09-11T08:38:51.784Z
 startTime: 2024-09-20T11:00:45.027Z
 generator: Upptime <https://github.com/upptime/upptime>
