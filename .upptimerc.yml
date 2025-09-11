@@ -55,13 +55,14 @@ sites:
     maxResponseTime: 2000
     expectedStatusCodes:
       - 401
-  - name: keria-provisioning
-    url: https://keria-provisioning.backend.voting.summit.cardano.org/api/v1/provision
-    maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'Method Not Allowed'
-    expectedStatusCodes:
-      - 405
-
+  # NOTE: disabled for Summit 2025
+  # - name: keria-provisioning
+  #   url: https://keria-provisioning.backend.voting.summit.cardano.org/api/v1/provision
+  #   maxResponseTime: 2000
+  #   __dangerous__body_down_if_text_missing: 'Method Not Allowed'
+  #   expectedStatusCodes:
+  #     - 405
+  #
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
