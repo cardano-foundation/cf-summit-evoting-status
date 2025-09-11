@@ -1,7 +1,7 @@
-url: http://api.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2024/AMBASSADOR
+url: http://api.backend.voting.summit.cardano.org/api/vote/receipt/CARDANO_SUMMIT_AWARDS_2025/AMBASSADOR
 status: up
 code: 401
-responseTime: 397
-lastUpdated: 2025-06-11T23:06:53.783Z
+responseTime: 378
+lastUpdated: 2025-09-11T08:38:50.280Z
 startTime: 2024-09-20T11:00:43.449Z
 generator: Upptime <https://github.com/upptime/upptime>
