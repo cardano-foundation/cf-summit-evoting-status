@@ -651,8 +651,8 @@
     "slug": "blockchain-follower-api",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.01%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "25.88%",
     "time": 345,
@@ -1002,7 +1002,7 @@
     "timeMonth": 387,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-09-11": 519,
+      "2025-09-11": 520,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -1347,7 +1347,7 @@
     "timeMonth": 378,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-09-11": 519,
+      "2025-09-11": 520,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -1671,8 +1671,8 @@
     "slug": "keria-provisioning",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
@@ -1681,7 +1681,7 @@
     "timeMonth": 616,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-09-11": 0,
+      "2025-09-11": 1,
       "2024-11-29": 5
     }
   }
