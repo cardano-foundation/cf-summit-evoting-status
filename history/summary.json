@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/voting.summit.cardano.org.ico",
     "slug": "voting-summit-cardano-org",
     "status": "down",
-    "uptime": "26.83%",
+    "uptime": "26.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.23%",
+    "uptimeMonth": "65.63%",
     "uptimeYear": "96.98%",
     "time": 502,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 544,
-    "timeYear": 561,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-09-22": 1207,
+      "2025-09-23": 30,
+      "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -27,8 +28,7 @@
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 624,
-      "2025-05-02": 3,
-      "2024-09-23": 855
+      "2025-05-02": 3
     }
   },
   {
@@ -41,14 +41,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.88%",
+    "uptimeYear": "26.83%",
     "time": 574,
-    "timeDay": 705,
-    "timeWeek": 524,
-    "timeMonth": 858,
-    "timeYear": 588,
+    "timeDay": 715,
+    "timeWeek": 559,
+    "timeMonth": 848,
+    "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-09-22": 1207,
+      "2025-09-23": 30,
+      "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -327,8 +328,7 @@
       "2024-11-26": 665,
       "2024-10-08": 1,
       "2024-10-07": 19,
-      "2024-09-24": 621,
-      "2024-09-23": 606
+      "2024-09-24": 621
     }
   },
   {
@@ -340,13 +340,13 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.62%",
+    "uptimeMonth": "36.22%",
     "uptimeYear": "21.77%",
-    "time": 529,
-    "timeDay": 473,
-    "timeWeek": 505,
-    "timeMonth": 553,
-    "timeYear": 556,
+    "time": 530,
+    "timeDay": 721,
+    "timeWeek": 519,
+    "timeMonth": 563,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2025-09-15": 2,
       "2025-09-11": 608,
@@ -647,13 +647,13 @@
     "uptime": "0.00%",
     "uptimeDay": "99.85%",
     "uptimeWeek": "99.98%",
-    "uptimeMonth": "35.73%",
+    "uptimeMonth": "36.33%",
     "uptimeYear": "30.21%",
     "time": 350,
-    "timeDay": 1598,
-    "timeWeek": 757,
-    "timeMonth": 499,
-    "timeYear": 352,
+    "timeDay": 1554,
+    "timeWeek": 756,
+    "timeMonth": 494,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2025-09-22": 2,
       "2025-09-15": 27,
@@ -938,8 +938,7 @@
       "2024-11-27": 565,
       "2024-11-26": 665,
       "2024-10-08": 1,
-      "2024-10-07": 19,
-      "2024-09-23": 6
+      "2024-10-07": 19
     }
   },
   {
@@ -948,21 +947,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.backend.voting.summit.cardano.org.ico",
     "slug": "login-api",
     "status": "up",
-    "uptime": "35.20%",
+    "uptime": "35.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 517,
-    "timeWeek": 463,
-    "timeMonth": 484,
+    "timeDay": 559,
+    "timeWeek": 469,
+    "timeMonth": 488,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-09-15": 2,
       "2025-09-11": 12,
-      "2025-05-08": 5,
-      "2024-09-23": 2
+      "2025-05-08": 5
     }
   },
   {
@@ -974,12 +972,12 @@
     "uptime": "0.00%",
     "uptimeDay": "99.95%",
     "uptimeWeek": "99.99%",
-    "uptimeMonth": "21.66%",
+    "uptimeMonth": "22.26%",
     "uptimeYear": "20.61%",
     "time": 259,
-    "timeDay": 1112,
-    "timeWeek": 532,
-    "timeMonth": 408,
+    "timeDay": 1117,
+    "timeWeek": 564,
+    "timeMonth": 409,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-09-22": 1,
@@ -1273,8 +1271,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 149,
-      "2024-09-23": 2
+      "2024-11-29": 149
     }
   },
   {
@@ -1283,19 +1280,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.backend.voting.summit.cardano.org.ico",
     "slug": "get-votes-api",
     "status": "up",
-    "uptime": "35.21%",
+    "uptime": "35.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 134,
-    "timeWeek": 230,
-    "timeMonth": 226,
+    "timeDay": 571,
+    "timeWeek": 250,
+    "timeMonth": 248,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-09-15": 2,
-      "2024-09-23": 2
+      "2025-09-15": 2
     }
   },
   {
@@ -1307,13 +1303,13 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "21.67%",
+    "uptimeMonth": "22.27%",
     "uptimeYear": "20.61%",
-    "time": 195,
-    "timeDay": 137,
-    "timeWeek": 176,
-    "timeMonth": 180,
-    "timeYear": 178,
+    "time": 197,
+    "timeDay": 567,
+    "timeWeek": 237,
+    "timeMonth": 204,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2025-09-15": 962,
       "2025-09-14": 1440,
@@ -1605,8 +1601,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 149,
-      "2024-09-23": 2
+      "2024-11-29": 149
     }
   },
   {
@@ -1620,10 +1615,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 560,
-    "timeWeek": 466,
-    "timeMonth": 512,
+    "time": 489,
+    "timeDay": 839,
+    "timeWeek": 518,
+    "timeMonth": 536,
     "timeYear": 487,
     "dailyMinutesDown": {}
   }
