@@ -28,7 +28,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status2024.voting.summit.cardano.org)
+[**Visit our status website →**](https://status2025.voting.summit.cardano.org)
 
 ## 📄 License
 
