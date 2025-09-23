@@ -1,7 +1,7 @@
 url: http://keria.backend.voting.summit.cardano.org
-status: degraded
+status: up
 code: 401
-responseTime: 15733
-lastUpdated: 2025-09-23T05:02:13.346Z
+responseTime: 626
+lastUpdated: 2025-09-23T05:05:33.680Z
 startTime: 2024-09-20T11:00:43.928Z
 generator: Upptime <https://github.com/upptime/upptime>
