@@ -12,7 +12,7 @@ sites:
   - name: event-api
     url: https://follower-api.backend.voting.summit.cardano.org/api/reference/event/CARDANO_SUMMIT_AWARDS_2025
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'CARDANO_SUMMIT_AWARDS_2024'
+    __dangerous__body_down_if_text_missing: 'CARDANO_SUMMIT_AWARDS_2025'
     expectedStatusCodes:
       - 200
   - name: user-verification-api
