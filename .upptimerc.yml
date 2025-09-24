@@ -69,7 +69,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   cname: status2025.backend.voting.summit.cardano.org
-  #baseUrl: /
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: cf-summit-evoting-status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
