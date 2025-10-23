@@ -1,7 +1,7 @@
 url: http://api.backend.voting.summit.cardano.org/api/auth/login
 status: up
 code: 401
-responseTime: 572
-lastUpdated: 2025-10-22T23:06:41.444Z
+responseTime: 602
+lastUpdated: 2025-10-23T23:07:33.488Z
 startTime: 2024-09-20T11:00:41.185Z
 generator: Upptime <https://github.com/upptime/upptime>
