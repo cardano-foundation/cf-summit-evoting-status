@@ -1,7 +1,7 @@
 url: https://follower-api.backend.voting.summit.cardano.org/api/reference/event/CARDANO_SUMMIT_AWARDS_2025
-status: down
-code: 503
-responseTime: 513
-lastUpdated: 2025-11-21T17:26:06.787Z
+status: up
+code: 200
+responseTime: 685
+lastUpdated: 2025-11-21T17:36:08.261Z
 startTime: 2024-09-20T11:00:38.129Z
 generator: Upptime <https://github.com/upptime/upptime>
