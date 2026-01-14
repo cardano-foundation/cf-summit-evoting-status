@@ -1,7 +1,7 @@
 url: https://voting.summit.cardano.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-14T18:25:54.382Z
+status: up
+code: 200
+responseTime: 334
+lastUpdated: 2026-01-14T18:31:09.242Z
 startTime: 2024-09-20T11:00:37.270Z
 generator: Upptime <https://github.com/upptime/upptime>
