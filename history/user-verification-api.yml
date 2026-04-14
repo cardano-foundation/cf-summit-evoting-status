@@ -1,7 +1,7 @@
 url: https://user-verification.backend.voting.summit.cardano.org/api/sms/user-verification/start-verification
 status: up
 code: 405
-responseTime: 404
-lastUpdated: 2026-04-13T23:22:59.023Z
+responseTime: 434
+lastUpdated: 2026-04-14T23:22:08.858Z
 startTime: 2024-09-20T11:00:39.352Z
 generator: Upptime <https://github.com/upptime/upptime>
